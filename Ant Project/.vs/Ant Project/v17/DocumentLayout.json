@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lab Folders\\Desktop\\Ant Project 180\\Ant Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B0AEE0-19F9-7718-2C44-1A9EA4ECBF59}|Assembly-CSharp.csproj|c:\\users\\lab folders\\desktop\\ant project 180\\ant project\\assets\\scripts\\antstatemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B0AEE0-19F9-7718-2C44-1A9EA4ECBF59}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\antstatemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B0AEE0-19F9-7718-2C44-1A9EA4ECBF59}|Assembly-CSharp.csproj|c:\\users\\lab folders\\desktop\\ant project 180\\ant project\\assets\\scripts\\foodspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B0AEE0-19F9-7718-2C44-1A9EA4ECBF59}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\foodspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B0AEE0-19F9-7718-2C44-1A9EA4ECBF59}|Assembly-CSharp.csproj|C:\\Users\\Lab Folders\\Desktop\\Ant Project 180\\Ant Project\\assets\\scripts\\antspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B0AEE0-19F9-7718-2C44-1A9EA4ECBF59}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\antspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FoodSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\Lab Folders\\Desktop\\Ant Project 180\\Ant Project\\Assets\\Scripts\\FoodSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FoodSpawner.cs",
+              "ToolTip": "C:\\Users\\Lab Folders\\Desktop\\Ant Project 180\\Ant Project\\Assets\\Scripts\\FoodSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FoodSpawner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T21:26:11.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AntStateMachine.cs",
+              "DocumentMoniker": "C:\\Users\\Lab Folders\\Desktop\\Ant Project 180\\Ant Project\\Assets\\Scripts\\AntStateMachine.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AntStateMachine.cs",
+              "ToolTip": "C:\\Users\\Lab Folders\\Desktop\\Ant Project 180\\Ant Project\\Assets\\Scripts\\AntStateMachine.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AntStateMachine.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA2wCoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T21:24:03.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AntSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\Lab Folders\\Desktop\\Ant Project 180\\Ant Project\\Assets\\Scripts\\AntSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AntSpawner.cs",
+              "ToolTip": "C:\\Users\\Lab Folders\\Desktop\\Ant Project 180\\Ant Project\\Assets\\Scripts\\AntSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AntSpawner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T21:22:07.776Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
