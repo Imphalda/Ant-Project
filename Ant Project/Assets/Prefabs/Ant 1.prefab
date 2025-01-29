@@ -123,4 +123,4 @@ MonoBehaviour:
   state: 0
   food: {fileID: 5253051987695292909, guid: 788ece81dccf3544191889b89f44580d, type: 3}
   home: {fileID: 7729054675710918523, guid: 5ffcf5fd48b43da4587bdc17590b9efa, type: 3}
-  duration: 1
+  duration: 5.26
