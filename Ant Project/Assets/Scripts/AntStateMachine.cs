@@ -92,7 +92,7 @@ public class AntStateMachine : MonoBehaviour
         direction.Normalize();
 
         transform.position += direction * 3 * Time.deltaTime;
-        if (currPos == homePos)
+        if (Vector3.Distance(currPos, homePos) < 0.5f)
         {
             state = AntState.Searching;
         }
